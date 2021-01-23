@@ -19,7 +19,7 @@ website running robots.txt file found with disallowed entry **/fuel/**
 >admin:admin
 
 Website running on **fuelCMS v1.4**
-Exploited **fuelCMS v1.4 using [exploit](https://www.exploit-db.com/exploits/47138)
+Exploited **fuelCMS v1.4** using [exploit](https://www.exploit-db.com/exploits/47138)
 
 created reverse shell connection using nc command
 
