@@ -1,2 +1,2 @@
-# thm
+# TryHackMe
 TryHackMe notes
